@@ -3,7 +3,7 @@ import os
 import sys
 
 
-ONEDRIVE_PATH = "C:\\Users\\lucam\\OneDrive\\befehle\\pyenv\\"
+ONEDRIVE_PATH = "C:\\Example\\Path\\OneDrive\\befehle\\pyenv\\"
 
 class shell():
     def __init__(self):
